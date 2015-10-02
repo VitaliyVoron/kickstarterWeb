@@ -1,0 +1,12 @@
+ua\com\goit\gojava\kickstarter\Model\Project.class
+ua\com\goit\gojava\kickstarter\Model\Quote.class
+ua\com\goit\gojava\kickstarter\DAO\AbstractDAO.class
+ua\com\goit\gojava\kickstarter\DAO\ProjectDAO.class
+ua\com\goit\gojava\kickstarter\Model\Faq.class
+ua\com\goit\gojava\kickstarter\DAO\QuoteDAO.class
+ua\com\goit\gojava\kickstarter\DAO\FaqDAO.class
+ua\com\goit\gojava\kickstarter\DAO\CategoriesDAO.class
+ua\com\goit\gojava\kickstarter\Model\Projects.class
+ua\com\goit\gojava\kickstarter\Model\Categories.class
+ua\com\goit\gojava\kickstarter\Model\Category.class
+ua\com\goit\gojava\kickstarter\Controller\RestController.class
